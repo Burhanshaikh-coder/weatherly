@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# sky_pulse
+# Weatherly
 
 A new Flutter project.
 
