@@ -19,14 +19,14 @@ This app was built using Flutter with AI-assisted development using Cursor AI.
 
 
 ## 📸 Screenshots
-![Splash](assets/screenshots/splash.jpeg)
+
 ![Home](assets/screenshots/home.jpeg)
-![Home](assets/screenshots/home1.jpeg)
 ![Search](assets/screenshots/search.jpeg)
+![Saved](assets/screenshots/saved.jpeg)
 ![Drawer](assets/screenshots/drawer.jpeg)
-![Saved Cities](assets/screenshots/saved.jpeg)
-![Setting](assets/screenshots/settings.jpeg)
-![About](assets/screenshots/about.jpeg)
+![Settings](assets/screenshots/settings.jpeg)
+![Splash](assets/screenshots/splash.jpeg)
+
 
 ## 👨‍💻 Developer
 Burhanuddin Shaikh
