@@ -17,5 +17,16 @@ This app was built using Flutter with AI-assisted development using Cursor AI.
 - REST API
 - Provider
 
+
+## 📸 Screenshots
+![Splash](assets/screenshots/splash.jpeg)
+![Home](assets/screenshots/home.jpeg)
+![Home](assets/screenshots/home1.jpeg)
+![Search](assets/screenshots/search.jpeg)
+![Drawer](assets/screenshots/drawer.jpeg)
+![Saved Cities](assets/screenshots/saved.jpeg)
+![Setting](assets/screenshots/settings.jpeg)
+![About](assets/screenshots/about.jpeg)
+
 ## 👨‍💻 Developer
 Burhanuddin Shaikh
