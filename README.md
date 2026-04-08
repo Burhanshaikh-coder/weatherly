@@ -17,6 +17,7 @@ This app was built using Flutter with AI-assisted development using Cursor AI.
 - REST API
 - Provider
 
+<<<<<<< HEAD
 
 ## 📸 Screenshots
 
@@ -30,3 +31,6 @@ This app was built using Flutter with AI-assisted development using Cursor AI.
 
 ## 👨‍💻 Developer
 Burhanuddin Shaikh
+
+
+
